@@ -2,7 +2,7 @@ package org.emp;
 
 public class Employee {
 	private void empID(int Id,String Officecode) {
-		System.out.println("Employee Id-"+Id+"\n"+"office-code-"+Officecode);
+		System.out.println("Employee Id -"+Id+"\n"+"office-code-"+Officecode);
 
 	}
 	public static void main(String[] args) {
